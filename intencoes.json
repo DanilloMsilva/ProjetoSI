@@ -1,0 +1,61 @@
+{
+    "intencoes": [
+      {
+        "tag": "saudacao",
+        "padroes": ["Olá", "Ola", "Oi"],
+        "respostas": ["Olá, me chamo Luma, e Bem-vindo à Itália! Estou aqui para tornar a sua experiência de viagem inesquecível."]
+      },
+      {
+            "tag": "recomendacaolugar",
+            "padroes": ["recomende lugares na italia", "recomende pontos turisticos na italia"],
+            "respostas": ["Claro, aqui está minha recomendação"]
+      },
+      {
+        "tag": "pontosturisticos",
+        "padroes": ["recomende um lugar turistico em", "quero um lugar turistico em", "me fale algum lugar turistico em"],
+        "respostas": ["Claro, aqui está minha recomendação"]
+      },
+      {
+        "tag": "recomendacaohotel",
+        "padroes": ["recomende um hotel em", "Eu quero um hotel em"],
+        "respostas": ["Claro, aqui esta a lista de recomendacoes."]
+      },
+      {
+        "tag": "hotelpreco",
+        "padroes": ["Estou procurando um hotel com preço até"],
+        "respostas": ["Claro, aqui está o hotel seguindo suas exigencias."]
+     },
+      {
+        "tag": "recomendarrestaurantes",
+        "padroes": ["recomende um restaurante em", "onde posso comer em"],
+        "respostas": ["Claro, aqui esta a recomendação:"]
+      },
+      {
+        "tag": "recomendarrotas",
+        "padroes": ["como chegar de", "melhor caminho de"],
+        "respostas": ["Aqui estão algumas rotas disponíveis."]
+      },
+      {
+        "tag": "duvidapassagem",
+        "padroes": ["estou planejando uma viagem para a Itália e estou um pouco perdido na hora de comprar a passagem. Pode me ajudar", 
+        "estou planejando viajar para a italia mas estou com duvidas na hora de comprar a passagem", "Estou perdido na compra da passagem para a Itália, pode me dar algumas dicas?", "Pode me orientar na compra da passagem para a minha viagem à Itália?"],
+        "respostas": ["Claro, ficarei feliz em ajudar! Quais são suas principais dúvidas sobre a compra da passagem?"]
+      },
+      {
+        "tag": "aeroportodestino",
+        "padroes": ["Eu não tenho certeza de qual aeroporto seria melhor para o meu destino na Itália."], 
+        "respostas": ["Sim, a Itália possui vários aeroportos internacionais. Pode me dizer para qual cidade você está planejando viajar? Isso me ajudará a fornecer informações mais precisas."]
+      },
+      {
+        "tag": "aeroportocidade",
+        "padroes": ["estou planejando viajar para", "estou querendo viajar para", "estou pensando em viajar para"], 
+        "respostas": ["Perfeito, em meu banco de dados encontrei esse aeroporto: "]
+      },
+      {
+        "tag": "nomecidadeaeroporto",
+        "padroes": ["Quais as cidades italiasnas que tem aeroportos internacionais?", "Me recomende mais cidades", "Me recomende mais cidades com aeroportos internacionais"], 
+        "respostas": ["Perfeito, em meu banco de dados encontrei essas cidades: "]
+      }
+
+    ]
+  }
