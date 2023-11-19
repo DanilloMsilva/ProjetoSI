@@ -52,4 +52,6 @@ O ChatBot oferece recomendações e informações sobre:
 * O treinamento do modelo de processamento de linguagem natural é baseado em um conjunto de dados simples.
 * O ChatBot possui uma interface gráfica simples usando Tkinter.
 
+## Link dos Scripts para usar de padrões no chat-bot: https://pastebin.com/vVzWMBA7
+
 Este projeto foi desenvolvido como parte dos meus estudos na faculdade. 
