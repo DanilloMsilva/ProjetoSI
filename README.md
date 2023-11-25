@@ -30,7 +30,7 @@ pip install tk pandas torch nltk
 git clone https://github.com/DanilloMsilva/ProjetoSI.git
 ```
 
-## Como usar
+## Como usar :warning::warning::warning::warning::warning:
 
 1. Baixe o código-fonte do ChatBot.
 2. Certifique-se de ter o conjunto de dados adequado para lugares turísticos, hotéis, restaurantes, aeroportos, etc. Você pode utilizar os dados que estão dentro da pasta CSV
